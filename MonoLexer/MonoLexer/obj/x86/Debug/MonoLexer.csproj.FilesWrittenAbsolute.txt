@@ -1,0 +1,5 @@
+/home/kizz/MonoProjects/Lab1Skeleton/Lab1Skeleton/Lexer/MonoLexer/MonoLexer/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/kizz/MonoProjects/Lab1Skeleton/Lab1Skeleton/Lexer/MonoLexer/MonoLexer/bin/Debug/MonoLexer.exe.mdb
+/home/kizz/MonoProjects/Lab1Skeleton/Lab1Skeleton/Lexer/MonoLexer/MonoLexer/bin/Debug/MonoLexer.exe
+/home/kizz/MonoProjects/Lab1Skeleton/Lab1Skeleton/Lexer/MonoLexer/MonoLexer/obj/x86/Debug/MonoLexer.exe
+/home/kizz/MonoProjects/Lab1Skeleton/Lab1Skeleton/Lexer/MonoLexer/MonoLexer/obj/x86/Debug/MonoLexer.exe.mdb

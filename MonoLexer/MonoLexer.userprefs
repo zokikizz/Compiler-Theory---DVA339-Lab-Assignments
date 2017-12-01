@@ -1,0 +1,20 @@
+﻿<Properties StartupItem="MonoLexer/MonoLexer.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MonoLexer/Lexer.cs">
+    <Files>
+      <File FileName="MonoLexer/Program.cs" Line="19" Column="1" />
+      <File FileName="MonoLexer/Lexer.cs" Line="137" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/home/kizz/MonoProjects/Lab1Skeleton/Lab1Skeleton/Lexer/MonoLexer/MonoLexer/Lexer.cs" line="143" column="1" />
+      <Breakpoint file="/home/kizz/MonoProjects/Lab1Skeleton/Lab1Skeleton/Lexer/MonoLexer/MonoLexer/Lexer.cs" line="171" column="1" />
+      <Breakpoint file="/home/kizz/MonoProjects/Lab1Skeleton/Lab1Skeleton/Lexer/MonoLexer/MonoLexer/Lexer.cs" line="105" column="1" />
+      <Breakpoint file="/home/kizz/MonoProjects/Lab1Skeleton/Lab1Skeleton/Lexer/MonoLexer/MonoLexer/Lexer.cs" line="99" column="1" />
+      <Breakpoint file="/home/kizz/MonoProjects/Lab1Skeleton/Lab1Skeleton/Lexer/MonoLexer/MonoLexer/Lexer.cs" line="98" column="1" />
+      <Breakpoint file="/home/kizz/MonoProjects/Lab1Skeleton/Lab1Skeleton/Lexer/MonoLexer/MonoLexer/Lexer.cs" line="136" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
